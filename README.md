@@ -1,8 +1,4 @@
 ### Olá,  👋
-
-<!--
-**robertoangelodasilvaramos/robertoangelodasilvaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Roberto Ângelo Da Silva Ramos :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-%C3%A2ngelo-6050b21a2/)](https://www.linkedin.com/in/roberto-%C3%A2ngelo-6050b21a2/)
