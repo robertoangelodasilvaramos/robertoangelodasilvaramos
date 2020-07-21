@@ -1,3 +1,5 @@
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://brasscom.org.br/wp-content/uploads/2017/08/Qintess-Logo-site.jpg)](https://brasscom.org.br/wp-content/uploads/2017/08/Qintess-Logo-site.jpg)
 ### Olá,  👋
 # Roberto Ângelo Da Silva Ramos :man_technologist:
 
