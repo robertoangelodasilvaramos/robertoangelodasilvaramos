@@ -1,5 +1,5 @@
 
-[![Qintess Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://brasscom.org.br/wp-content/uploads/2017/08/Qintess-Logo-site.jpg)](https://brasscom.org.br/wp-content/uploads/2017/08/Qintess-Logo-site.jpg)
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
 ### Olá,  👋
 # Roberto Ângelo Da Silva Ramos :man_technologist:
 
